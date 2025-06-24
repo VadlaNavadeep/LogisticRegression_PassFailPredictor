@@ -32,7 +32,15 @@ To understand how **Logistic Regression** can be used for **binary classificatio
 - Binary classification: `0` for Fail, `1` for Pass
 
 ## 💻 Prediction Example
+
+These are the Sample Hours which are Taken to Recognize the variation of the outputs when the hours are changed . 
+
+
 ![Screenshot 2025-06-24 102345](https://github.com/user-attachments/assets/ab9d948b-3396-4a7a-8ac4-d0cf11d71f45)
 ![Screenshot 2025-06-24 103610](https://github.com/user-attachments/assets/4b96a0de-f5d5-4e5e-b0ce-8f7a9e3b405d)
+![Screenshot 2025-06-24 103636](https://github.com/user-attachments/assets/04873808-a274-494e-8940-c604969766f1)
+![Screenshot 2025-06-24 103727](https://github.com/user-attachments/assets/713270b2-8466-4c42-b813-3f42a5a5997b)
+
+
 
 
