@@ -32,4 +32,5 @@ To understand how **Logistic Regression** can be used for **binary classificatio
 - Binary classification: `0` for Fail, `1` for Pass
 
 ## 💻 Prediction Example
+![Screenshot 2025-06-24 102345](https://github.com/user-attachments/assets/ea9c2cc2-8d11-45aa-8b07-6b8ba3accd37)
 
